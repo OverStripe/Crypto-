@@ -1,0 +1,1 @@
+<PASTE THE CONTENT I PROVIDED UNDER image_generator.py>
